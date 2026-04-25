@@ -21,3 +21,20 @@ Ayudante en la escritura del material escrito Propiedades básicas de polinomios
 Conjunto con Luis Angel Serrano Gonzalez
 
 Puede encontrare su formato PDF como POLINOMIOS SIMETRICOS BEIFI AGOSTO-DICIEMBRE 2025.pdf
+
+Las siguientes ligas muestran parte del proyecto GABOW, ganador del Concurso de Prototipos de Nivel Medio Superior 2023, donde se maneja la matematica interna relacionada con el manejo de coordenadas cartesianas y grafos. Esta realizado a modo de API en PYTHON usando FLASK. Para el manejo de grafos se utilizo la libreria Newtworkx, para el manejo de coordenadas se utilizo la libreria de math. En realidad, se utiliza de manera interna el algortimo Dikjstra.
+
+GRAFOS
+https://www.pythonanywhere.com/user/EmilioRifasChidoPro/shares/c14c092f3f4247d5a231dfd18ee515c3/
+
+COORDENADAS
+https://www.pythonanywhere.com/user/EmilioRifasChidoPro/shares/6657b7a599f149acb3ea3f85a511f95e/
+
+APP
+https://www.pythonanywhere.com/user/EmilioRifasChidoPro/shares/c05f512a2fd645fb8a8f0574e74edc5c/
+
+GRAFOS DE DIFERENTES EDIFICIOS
+https://www.pythonanywhere.com/user/EmilioRifasChidoPro/shares/a06ce7c13e3d43f8a446a27bc353cef1/
+
+
+
